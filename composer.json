@@ -1,0 +1,16 @@
+{
+  "name": "kjelyazkov/tree-structure",
+  "description": "Working with arrays",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Kjelyazkov\\TreeStructure\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zhelyazkov",
+      "email": "kjelyazkov@abv.bg"
+    }
+  ]
+}
