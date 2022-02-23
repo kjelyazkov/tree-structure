@@ -17,4 +17,9 @@ class Tree
 
         return $instance;
     }
+
+    public function stringer()
+    {
+        return implode(",", $this->array);
+    }
 }

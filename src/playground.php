@@ -6,4 +6,4 @@ require 'vendor/autoload.php';
 
 $tree = Tree::load([1,2,3]);
 
-var_dump($tree);
+var_dump($tree->stringer());
